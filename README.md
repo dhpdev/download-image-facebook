@@ -1,5 +1,6 @@
 # download-image-facebook
 Download Image Facebook From URL
+- Download Application: https://www.mediafire.com/file/zxpoyobwpraikis/Download_Image_Facebook.exe
 - Download extension: https://chrome.google.com/webstore/detail/j2team-cookies/okpidcojinmlaakglciglbpcpajaibco
 - Open Chrome Log In Facebook, open extension J2TEAM Cookies click Export and save cookies.json
 - Open App.exe select cookies.json, Log In
