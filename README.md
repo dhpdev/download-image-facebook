@@ -5,5 +5,5 @@ Download Image Facebook From URL
 - Open Chrome Log In Facebook, open extension J2TEAM Cookies click Export and save cookies.json
 - Open App.exe select cookies.json, Log In
 - Copy URL profile you want to download, click Tagged Photos or Uploaded Photos to download
-![image](https://user-images.githubusercontent.com/29817167/226095318-ea84bf3d-5eae-483f-9223-044e758b09d6.png)
+![image](https://user-images.githubusercontent.com/29817167/231554092-40bc0e1f-715f-4bca-a2a1-ba1f386379f9.png)
 
